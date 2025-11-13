@@ -10,7 +10,7 @@ Make sure you have:
 
 ### Installation
  #### Clone the repository
-git clone https://github.com/<your-username>/earthquake-visualizer.git
+https://github.com/avimistry-3/earthquake-visualizer.git
 
 ### Go into the project directory
 cd earthquake-visualizer
@@ -20,5 +20,7 @@ npm install
 
 ### Run Development Server
 npm run dev
+This will start the development server.
+Open your browser and go to http://localhost:5173 to see the app.
 
 
