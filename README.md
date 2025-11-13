@@ -9,13 +9,13 @@ Make sure you have:
 - **npm 9+**
 
 ### Installation
- # Clone the repository
+ #### Clone the repository
 git clone https://github.com/<your-username>/earthquake-visualizer.git
 
-# Go into the project directory
+### Go into the project directory
 cd earthquake-visualizer
 
-# Install dependencies
+### Install dependencies
 npm install
 
 ### Run Development Server
