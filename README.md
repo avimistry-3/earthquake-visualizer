@@ -21,6 +21,7 @@ Features:
 ### Clone the repository:
 
 git clone https://github.com/avimistry-3/earthquake-visualizer.git
+
 cd earthquake-visualizer
 
 ### Install dependencies:
